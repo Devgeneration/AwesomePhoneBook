@@ -1,0 +1,19 @@
+{
+  "name": "awesomephonebook",
+  "version": "1.0.0",
+  "description": "this is the first version of the AWESOMEPHONEBOOK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devgeneration/AwesomePhoneBook.git"
+  },
+  "author": "Mfundo Tabalaza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devgeneration/AwesomePhoneBook/issues"
+  },
+  "homepage": "https://github.com/Devgeneration/AwesomePhoneBook#readme"
+}
