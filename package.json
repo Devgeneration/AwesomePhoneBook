@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Devgeneration/AwesomePhoneBook/issues"
   },
-  "homepage": "https://github.com/Devgeneration/AwesomePhoneBook#readme"
+  "homepage": "https://github.com/Devgeneration/AwesomePhoneBook#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
 }
